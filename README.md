@@ -9,4 +9,4 @@ nlp
 rag
 langchain
 faiss
-streamlit
+streamlit 
