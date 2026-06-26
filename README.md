@@ -39,3 +39,17 @@ Swastika-Smart-Library-Assistant
 │
 └── screenshots
     └── README.md
+Technology Used
+. python
+. openCV
+. OCR
+. NLP
+. Sentence Transformers
+. FAISS
+. RAG
+. Machine Learning
+. Decision Tree
+Install
+ pip install -r requirements. txt
+Run
+ python main. py
