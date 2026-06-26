@@ -1,12 +1,16 @@
-# Swastika-Smart-Library-Assistant-
-https://github.com/swastika-cmd/Swastika-Smart-Library-Assistant
-python
-artificial-intelligence
-machine-learning
-computer-vision
-ocr
-nlp
-rag
-langchain
-faiss
-streamlit 
+# Smart Library Assistant
+
+Developed by Swastika
+
+An AI-powered library system using:
+- Computer Vision
+- OCR
+- NLP
+- RAG
+- Machine Learning
+
+Features:
+✔ Book image recognition
+✔ AI question answering from PDFs
+✔ Smart search
+✔ Demand prediction
